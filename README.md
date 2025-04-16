@@ -24,8 +24,7 @@ This tool allows users to combine and preview multiple facial components, then e
 
 ## 工具栏功能 / Toolbar Features
 
-- 图层前置 / 后置，水平 / 垂直翻转组件  
-  **Bring forward / send back**, **flip horizontally / vertically**
+- 图层前置 / 后置，水平 / 垂直翻转组件 / **Bring forward / send back**, **flip horizontally / vertically**
 - 播放 / 暂停画布预览 / **Play / Pause canvas** to preview animation
 - 一键删除选中组件 / **Delete selected component** with one click
 - 自定义导出文件名与路径 / **Custom export**: set output filename and folder
