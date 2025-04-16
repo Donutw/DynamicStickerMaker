@@ -1,0 +1,28 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Logs/
+MemoryCaptures/
+
+# VS/VSCode/JetBrains
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.suo
+
+# OS & Tools
+.DS_Store
+Thumbs.db
+
+# Build output
+*.exe
+*.apk
+*.aab
+*.zip
+
+# Ignore exported content
+ExportedAssets/
