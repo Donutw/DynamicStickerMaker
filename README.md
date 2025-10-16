@@ -16,9 +16,9 @@ This tool allows users to combine and preview multiple facial components, then e
 ## 操作方式 / Controls
 
 - 鼠标左键点击选中组件 / **Left Click** to select component
-- 鼠标左键（按住）拖动组件 / **Left Mouse Button (Hold)** to drag
-- 鼠标中键缩放组件 / **Middle Mouse Button** to scale
-- 鼠标右键旋转组件 / **Right Mouse Button** to rotate
+- 鼠标左键（按住）拖动组件 / **Hold Left Click** to drag component
+- 鼠标中键缩放组件 / **Scroll Wheel** to scale component
+- 鼠标右键旋转组件 / **Hold Right Click + move mouse** to rotate component
 - 点击标签切换组件列表 / **Click tabs** to switch between component categories
 - 列表悬停预览动画 / **Hover on list items** to preview animations
 
@@ -26,7 +26,7 @@ This tool allows users to combine and preview multiple facial components, then e
 
 - 图层前置 / 后置，水平 / 垂直翻转组件 / **Bring forward / send back**, **flip horizontally / vertically**
 - 播放 / 暂停画布预览 / **Play / Pause canvas** to preview animation
-- 一键删除选中组件 / **Delete selected component** with one click
+- 一键删除画布上所有组件 / **Delete all component on canvas** with one click
 - 自定义导出文件名与路径 / **Custom export**: set output filename and folder
 
 ---
